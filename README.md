@@ -1,3 +1,11 @@
+<style>
+  p img{
+      border: 1px solid #000000;
+      border-radius: 20px;
+      padding: 4px;
+  }
+</style>
+
 ## Hello World! i'm Giovane!
 <a href="https://github.com/GiovaneVinicius">
 
