@@ -8,7 +8,7 @@
 <p>
 <img alt="PHP" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img alt="Laravel" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img alt="Ionic" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+<img alt="Ionic" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/Ionic-3880FF?style=label&logo=ionic&logoColor=white" />
 <img alt="Linux" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img alt="JavaScript" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
 <img alt="HTML" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
