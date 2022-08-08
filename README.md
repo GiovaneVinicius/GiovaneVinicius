@@ -49,8 +49,21 @@
 <img alt="SQLite" style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
+#### 💻 Workstation #1
+<p>
+  <img src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=label&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1060(6GB)-76B900?style=label&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-8GB%20RAM-0078D6?style=label&logo=windows&logoColor=white"/>
+</p>
+
+#### 💻 Workstation #2
+<p>
+  <img src="https://img.shields.io/badge/Apple-Mac%20mini%20(M1)-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
 #### Contact me 
 <div> 
   <a href = "mailto:gio_vinicius@hotmail.com"><img style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovane-scheite-1368b8189/" target="_blank"><img style=border: 1px solid #000000!important; border-radius: 20px!important; padding: 4px!important;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
