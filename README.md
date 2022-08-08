@@ -58,7 +58,7 @@
 
 #### 💻 Workstation #2
 <p>
-  <img src="https://img.shields.io/badge/Apple-Mac%20mini%20(M1)-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple-Mac%20mini%20(M1)-999999?style=label&logo=apple&logoColor=white"/>
 </p>
 
 #### Contact me 
