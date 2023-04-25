@@ -52,8 +52,8 @@
 
 #### 💻 Workstation #1
 <p>
-  <img src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=label&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1060(6GB)-76B900?style=label&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=label&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX3050ti(6GB)-76B900?style=label&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-8GB%20RAM-0078D6?style=label&logo=windows&logoColor=white"/>
 </p>
 
